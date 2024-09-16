@@ -1,0 +1,15 @@
+name: dockercompose17663517631040439868
+services:
+  realtimechat.redis:
+    image: redis
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 6379
+        published: "6379"
+        protocol: tcp
+    restart: always
+networks:
+  default:
+    name: dockercompose17663517631040439868_default

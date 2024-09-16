@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VideoChat\\Backend\\Video_Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\dto\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\dto\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\dto\\serviceresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\dto\\serviceresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|d:\\videochat\\backend\\video_chat\\video_chat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FB8CA04-7A3C-4048-97B3-3073D8730471}|Video_Chat\\Video_Chat.csproj|solutionrelative:video_chat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Video_Chat\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Video_Chat\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:41:47.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\DTO\\UserSession.cs",
+              "RelativeDocumentMoniker": "Video_Chat\\DTO\\UserSession.cs",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\DTO\\UserSession.cs",
+              "RelativeToolTip": "Video_Chat\\DTO\\UserSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:54:05.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Video_Chat\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Video_Chat\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:53:57.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Video_Chat\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Video_Chat\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:53:52.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Video_Chat\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Video_Chat\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:39:41.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Video_Chat\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Video_Chat\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:53:34.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Video_Chat\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Video_Chat\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwF0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:26:16.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Video_Chat\\Data\\ApplicationUser.cs",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Video_Chat\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:54:41.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserConnection.cs",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Models\\UserConnection.cs",
+              "RelativeDocumentMoniker": "Video_Chat\\Models\\UserConnection.cs",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Models\\UserConnection.cs",
+              "RelativeToolTip": "Video_Chat\\Models\\UserConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:54:10.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceResponses.cs",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\DTO\\ServiceResponses.cs",
+              "RelativeDocumentMoniker": "Video_Chat\\DTO\\ServiceResponses.cs",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\DTO\\ServiceResponses.cs",
+              "RelativeToolTip": "Video_Chat\\DTO\\ServiceResponses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:53:55.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Program.cs",
+              "RelativeDocumentMoniker": "Video_Chat\\Program.cs",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Program.cs",
+              "RelativeToolTip": "Video_Chat\\Program.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:18:05.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\appsettings.json",
+              "RelativeDocumentMoniker": "Video_Chat\\appsettings.json",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\appsettings.json",
+              "RelativeToolTip": "Video_Chat\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T15:15:53.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Video_Chat\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\VideoChat\\Backend\\Video_Chat\\Video_Chat\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Video_Chat\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T15:17:39.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
